@@ -1,6 +1,0 @@
-Install
-========
-
-- Node.js
-- MongoDB
-
