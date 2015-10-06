@@ -6,4 +6,4 @@ media
 
 # each installation can put its own values in the local settings
 # things like db credentials, domain names, emails of admins, etc
-settings_local.py$ 
+settings_local.py
